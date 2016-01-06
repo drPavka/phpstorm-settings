@@ -1,0 +1,19 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="ExtractMethod" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+</keymap>
