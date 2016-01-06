@@ -1,0 +1,35 @@
+<application>
+  <component name="libraryTable">
+    <library name="jQuery-2.0.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="MooTools-1.4.5" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="MooTools" />
+        <option name="frameworkVersion" value="1.4.5" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/http_mootools.net_download_get_mootools-core-1.4.5-full-nocompat.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_mootools.net_download_get_mootools-core-1.4.5-full-nocompat.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://mootools.net/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
