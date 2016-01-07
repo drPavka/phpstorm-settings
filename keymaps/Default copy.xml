@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="ExtractMethod" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
@@ -13,6 +16,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
   <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
