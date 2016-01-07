@@ -1,7 +1,18 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" second-keystroke="ctrl alt divide" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="ExtractMethod" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
