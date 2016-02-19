@@ -6,7 +6,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" second-keystroke="ctrl alt divide" />
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="Editor Redo">
