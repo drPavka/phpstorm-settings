@@ -47,6 +47,9 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/bin/node" version="5.6.0" last-modified="1455100385000" />
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_FIELD_ACCESSORS" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
