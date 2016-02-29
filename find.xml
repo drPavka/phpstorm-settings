@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'couch'" />
     <option name="defaultScopeName" value="Project 'couch'" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +19,7 @@
       <mask>*.js</mask>
       <mask>config*.php</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
