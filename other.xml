@@ -102,14 +102,6 @@
   <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/projects/trku.platform/branches/new_sobytiya">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/trku.platform/branches/new_sobytiya" />
   </component>
-  <component name="XPathView.XPathViewPlugin">
-    <option name="attributes">
-      <TextAttributes />
-    </option>
-    <option name="contextAttributes">
-      <TextAttributes />
-    </option>
-  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
