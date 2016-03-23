@@ -4,9 +4,12 @@
     <option name="customScope" value="Project 'couch'" />
     <option name="defaultScopeName" value="Project 'couch'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,11 +22,11 @@
       <mask>*.xml</mask>
       <mask>*.class.php</mask>
       <mask>*.зрз</mask>
-      <mask>*.js</mask>
       <mask>config*.php</mask>
       <mask>*.scss</mask>
       <mask>*.po</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
