@@ -20,12 +20,12 @@
       <mask>*.class.php</mask>
       <mask>*.зрз</mask>
       <mask>config*.php</mask>
-      <mask>*.po</mask>
       <mask>*.js</mask>
       <mask>*.css</mask>
       <mask>*.xml</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.po</mask>
     </recentFileMasks>
   </component>
 </application>
