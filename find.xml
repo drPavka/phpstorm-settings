@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,12 +21,12 @@
       <mask>*.class.php</mask>
       <mask>*.зрз</mask>
       <mask>config*.php</mask>
-      <mask>*.css</mask>
       <mask>*.xml</mask>
       <mask>*.scss</mask>
       <mask>*.po</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
