@@ -4,10 +4,12 @@
     <option name="customScope" value="Project 'couch'" />
     <option name="defaultScopeName" value="Project 'couch'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
-    <option name="FILE_MASK" value="*.xslt" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,9 +25,9 @@
       <mask>*.po</mask>
       <mask>*.css</mask>
       <mask>*.js</mask>
-      <mask>*.php</mask>
       <mask>*.чыде</mask>
       <mask>*.xslt</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
