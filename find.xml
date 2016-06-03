@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'couch'" />
     <option name="defaultScopeName" value="Project 'couch'" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
