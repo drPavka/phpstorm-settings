@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project 'couch'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,8 +22,8 @@
       <mask>*.чыде</mask>
       <mask>*.xslt</mask>
       <mask>*.scss</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
