@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,13 +20,13 @@
       <mask>config*.php</mask>
       <mask>*.xml</mask>
       <mask>*.po</mask>
-      <mask>*.css</mask>
       <mask>*.чыде</mask>
       <mask>*.xslt</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>*.*css</mask>
       <mask>*.scss</mask>
+      <mask>*.css</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
