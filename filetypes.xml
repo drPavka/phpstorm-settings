@@ -17,6 +17,7 @@
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="include" type="PLAIN_TEXT" />
+      <mapping ext="po" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
