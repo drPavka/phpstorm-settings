@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'couch'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,8 +23,8 @@
       <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.xml</mask>
-      <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
