@@ -15,13 +15,28 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="127.0.0.1" version="7.0.3">
-          <additional_php_ini>/etc/php/conf.d/memcached.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" version="7.0.8">
+          <additional_php_ini>/etc/php/conf.d/apcu.ini, /etc/php/conf.d/memcached.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
-            <configuration_option name="allow_url_include" value="" />
+            <configuration_option name="allow_url_include" value="1" />
+            <configuration_option name="apc.coredump_unmap" value="0" />
+            <configuration_option name="apc.enable_cli" value="0" />
+            <configuration_option name="apc.enabled" value="1" />
+            <configuration_option name="apc.entries_hint" value="4096" />
+            <configuration_option name="apc.gc_ttl" value="3600" />
+            <configuration_option name="apc.mmap_file_mask" value="" />
+            <configuration_option name="apc.preload_path" value="" />
+            <configuration_option name="apc.serializer" value="php" />
+            <configuration_option name="apc.shm_segments" value="1" />
+            <configuration_option name="apc.shm_size" value="32M" />
+            <configuration_option name="apc.slam_defense" value="1" />
+            <configuration_option name="apc.smart" value="0" />
+            <configuration_option name="apc.ttl" value="0" />
+            <configuration_option name="apc.use_request_time" value="1" />
+            <configuration_option name="apc.writable" value="/tmp" />
             <configuration_option name="arg_separator.input" value="&amp;" />
             <configuration_option name="arg_separator.output" value="&amp;" />
             <configuration_option name="assert.active" value="1" />
@@ -83,6 +98,9 @@
             <configuration_option name="include_path" value=".:" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="intl.default_locale" value="" />
+            <configuration_option name="intl.error_level" value="0" />
+            <configuration_option name="intl.use_exceptions" value="0" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
             <configuration_option name="mail.add_x_header" value="1" />
@@ -161,6 +179,7 @@
             <configuration_option name="opcache.huge_code_pages" value="0" />
             <configuration_option name="opcache.inherited_hack" value="1" />
             <configuration_option name="opcache.interned_strings_buffer" value="4" />
+            <configuration_option name="opcache.lockfile_path" value="/tmp" />
             <configuration_option name="opcache.log_verbosity_level" value="1" />
             <configuration_option name="opcache.max_accelerated_files" value="2000" />
             <configuration_option name="opcache.max_file_size" value="0" />
@@ -287,7 +306,7 @@
             <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
-            <configuration_option name="xdebug.remote_enable" value="1" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="localhost" />
             <configuration_option name="xdebug.remote_log" value="" />
@@ -320,7 +339,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.4.0RC4">
+            <debugger_info debugger="xdebug" debugger_version="2.4.0">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -332,6 +351,8 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="apc" />
+            <extension name="apcu" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
@@ -341,6 +362,7 @@
             <extension name="gd" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
