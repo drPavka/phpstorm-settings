@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'couch'" />
-    <option name="defaultScopeName" value="Project 'couch'" />
+    <option name="customScope" value="Directory '[DLF] - .../wp-content/themes/dlf'" />
+    <option name="defaultScopeName" value="Directory '[DLF] - .../wp-content/themes/dlf'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'couch'" />
+    <option name="SEARCH_SCOPE" value="Directory '[DLF] - .../wp-content/themes/dlf'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
