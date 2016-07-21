@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[Rafho] - .../wp-content/themes/rahfo/template-parts/shortcodes/-bulletin.php'" />
-    <option name="defaultScopeName" value="File '[Rafho] - .../wp-content/themes/rahfo/template-parts/shortcodes/-bulletin.php'" />
+    <option name="customScope" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
+    <option name="defaultScopeName" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[Rafho] - .../wp-content/themes/rahfo/template-parts/shortcodes/-bulletin.php'" />
+    <option name="SEARCH_SCOPE" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
