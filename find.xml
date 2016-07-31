@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
+    <option name="FILE_MASK" value="*.xslt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,7 +18,6 @@
       <mask>config*.php</mask>
       <mask>*.po</mask>
       <mask>*.чыде</mask>
-      <mask>*.xslt</mask>
       <mask>*.*css</mask>
       <mask>*.css</mask>
       <mask>*.xml</mask>
@@ -25,6 +25,7 @@
       <mask>*.php</mask>
       <mask>*.scss</mask>
       <mask>*.js\</mask>
+      <mask>*.xslt</mask>
     </recentFileMasks>
   </component>
 </application>
