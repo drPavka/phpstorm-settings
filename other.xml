@@ -48,7 +48,10 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="6.3.1" last-modified="1469157984000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/bin/node" version="5.6.0" last-modified="1455100385000" />
