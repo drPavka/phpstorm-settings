@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <option name="defaultScopeName" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <option name="SEARCH_SCOPE" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
