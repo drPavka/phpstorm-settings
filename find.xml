@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <option name="defaultScopeName" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -15,13 +17,13 @@
       <mask>config*.php</mask>
       <mask>*.po</mask>
       <mask>*.чыде</mask>
-      <mask>*.*css</mask>
       <mask>*.css</mask>
       <mask>*.xml</mask>
-      <mask>*.js</mask>
       <mask>*.js\</mask>
       <mask>*.xslt</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>*.*css</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>

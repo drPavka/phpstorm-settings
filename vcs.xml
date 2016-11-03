@@ -38,9 +38,13 @@
           <option name="url" value="https://github.com/AvantimeGroup/Avantime.Lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pavel_dubenko@bitbucket.org/pavel_dubenko/e-id-questionnaire.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/avantime" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects.js" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/avantime/3.intranet" />
