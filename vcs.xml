@@ -46,6 +46,10 @@
           <option name="url" value="https://pavel_dubenko@bitbucket.org/admins1/webworks-storage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Oleksandr_Kostenko@bitbucket.org/Oleksandr_Kostenko/automatic-bitbucket-deploy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
