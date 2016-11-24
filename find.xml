@@ -3,10 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
     <option name="defaultScopeName" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,9 +23,9 @@
       <mask>*.js\</mask>
       <mask>*.xslt</mask>
       <mask>*.*css</mask>
-      <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
