@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
-    <option name="defaultScopeName" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
-    <option name="SEARCH_SCOPE" value="Directory '[Rafho] - .../wp-content/themes/rahfo'" />
+    <option name="customScope" value="File '[tmp] - .../client/app/year-list/year-list.component.ts'" />
+    <option name="defaultScopeName" value="File '[tmp] - .../client/app/year-list/year-list.component.ts'" />
+    <option name="SEARCH_SCOPE" value="File '[tmp] - .../client/app/year-list/year-list.component.ts'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
