@@ -12,7 +12,9 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="ExtractMethod" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
@@ -54,4 +56,7 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
 </keymap>
