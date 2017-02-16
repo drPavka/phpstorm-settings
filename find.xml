@@ -23,8 +23,8 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.xslt</mask>
-      <mask>*.html</mask>
       <mask>*.*css</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
