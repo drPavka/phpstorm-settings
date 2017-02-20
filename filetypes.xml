@@ -13,6 +13,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="rules" type="PLAIN_TEXT" />
       <mapping pattern="convert" type="PLAIN_TEXT" />
       <mapping pattern="sedprdx1N" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
