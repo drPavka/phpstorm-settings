@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -23,8 +21,8 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.xslt</mask>
-      <mask>*.*css</mask>
       <mask>*.html</mask>
+      <mask>*.*css</mask>
     </recentFileMasks>
   </component>
 </application>
