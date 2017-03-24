@@ -1,8 +1,9 @@
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
-    <option name="MAX_LOOKUP_WIDTH2" value="549" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="9" />
+    <option name="MAX_LOOKUP_WIDTH2" value="549" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
