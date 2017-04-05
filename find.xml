@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -20,7 +23,6 @@
       <mask>*.js</mask>
       <mask>*.xslt</mask>
       <mask>*.*css</mask>
-      <mask>*.php</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
@@ -33,6 +35,8 @@
       <mask>*.*scs</mask>
       <mask>*.*scss</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
