@@ -1,5 +1,5 @@
 <templateSet group="Angular 2 libs">
-  <template name="trans" value="{{'$SELECTION$' | translate:lang}}" description="Surround with translate" toReformat="false" toShortenFQNames="true">
+  <template name="trans" value="{{'$SELECTION$' | translate}}" description="Surround with translate" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="XML" value="true" />
