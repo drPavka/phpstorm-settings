@@ -3,21 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.service.ts" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.class.php</mask>
-      <mask>*.зрз</mask>
-      <mask>config*.php</mask>
-      <mask>*.po</mask>
-      <mask>*.чыде</mask>
-      <mask>*.css</mask>
-      <mask>*.xml</mask>
-      <mask>*.js\</mask>
-      <mask>*.js</mask>
-      <mask>*.xslt</mask>
       <mask>*.*css</mask>
       <mask>*.*</mask>
       <mask>*.*s</mask>
@@ -33,7 +20,21 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.ыукмшсуюts</mask>
+      <mask>*.ыукмшсуts</mask>
+      <mask>*.ыукмшсts</mask>
+      <mask>*.ыукмшts</mask>
+      <mask>*.ыукмts</mask>
+      <mask>*.ыукts</mask>
+      <mask>*.ыуts</mask>
+      <mask>*.ыts</mask>
       <mask>*.ts</mask>
+      <mask>*.sts</mask>
+      <mask>*.serts</mask>
+      <mask>*.servts</mask>
+      <mask>*.servicts</mask>
+      <mask>*.servicets</mask>
+      <mask>*.service.ts</mask>
     </recentFileMasks>
   </component>
 </application>
