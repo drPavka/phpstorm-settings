@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ыукts</mask>
-      <mask>*.ыуts</mask>
-      <mask>*.ыts</mask>
       <mask>*.sts</mask>
       <mask>*.serts</mask>
       <mask>*.servts</mask>
@@ -34,6 +31,9 @@
       <mask>*.scss</mask>
       <mask>*.css</mask>
       <mask>*.*css</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
