@@ -4,15 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ph</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>*.ыукмшсуюts</mask>
-      <mask>*.ыукмшсуts</mask>
-      <mask>*.ыукмшсts</mask>
-      <mask>*.ыукмшts</mask>
-      <mask>*.ыукмts</mask>
       <mask>*.ыукts</mask>
       <mask>*.ыуts</mask>
       <mask>*.ыts</mask>
@@ -24,16 +15,25 @@
       <mask>*.pm</mask>
       <mask>*.p</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.se</mask>
       <mask>*.ser</mask>
       <mask>*.serv</mask>
       <mask>*.servic</mask>
       <mask>*.service</mask>
       <mask>*.service.ts</mask>
-      <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.ісіі</mask>
+      <mask>*.ісі</mask>
+      <mask>*.іс</mask>
+      <mask>*.і</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.css</mask>
+      <mask>*.*css</mask>
     </recentFileMasks>
   </component>
 </application>
