@@ -4,25 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.sts</mask>
-      <mask>*.serts</mask>
-      <mask>*.servts</mask>
-      <mask>*.servicts</mask>
-      <mask>*.servicets</mask>
-      <mask>*.pm</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.se</mask>
-      <mask>*.ser</mask>
-      <mask>*.serv</mask>
-      <mask>*.servic</mask>
-      <mask>*.service</mask>
-      <mask>*.service.ts</mask>
-      <mask>*.ісіі</mask>
-      <mask>*.ісі</mask>
-      <mask>*.іс</mask>
-      <mask>*.і</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -30,10 +11,29 @@
       <mask>*.css</mask>
       <mask>*.*css</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.mts</mask>
+      <mask>*.mots</mask>
+      <mask>*.modts</mask>
+      <mask>*.moduts</mask>
+      <mask>*.modults</mask>
+      <mask>*.modulets</mask>
+      <mask>*.m*.ts</mask>
+      <mask>*.m.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.ts</mask>
+      <mask>*.m</mask>
+      <mask>*.mo</mask>
+      <mask>*.mod</mask>
+      <mask>*.modu</mask>
+      <mask>*.modul</mask>
+      <mask>*.module</mask>
+      <mask>*.module*</mask>
+      <mask>*.module.*</mask>
+      <mask>*.module.ts*</mask>
+      <mask>*.module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
