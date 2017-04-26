@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fca27c21-8a51-47f2-9a1c-a0aec797db91" name="DEV" url="http://devel.buratino.ytechteam.com">
+        <fileTransfer host="devel.buratino.ytechteam.com" port="54376" rootFolder="/home/pavka" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="54376" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
