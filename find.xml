@@ -5,11 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
-      <mask>*.scss</mask>
-      <mask>*.css</mask>
-      <mask>*.*css</mask>
-      <mask>*.t</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
@@ -33,9 +30,13 @@
       <mask>*.module.ts*</mask>
       <mask>*.module.ts</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pm</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmp</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
