@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pm" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
       <mask>*.*css</mask>
@@ -24,7 +22,6 @@
       <mask>*.m.ts</mask>
       <mask>*..ts</mask>
       <mask>*.ts</mask>
-      <mask>*.m</mask>
       <mask>*.mo</mask>
       <mask>*.mod</mask>
       <mask>*.modu</mask>
@@ -34,6 +31,10 @@
       <mask>*.module.*</mask>
       <mask>*.module.ts*</mask>
       <mask>*.module.ts</mask>
+      <mask>*.m</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
