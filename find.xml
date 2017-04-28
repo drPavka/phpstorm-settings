@@ -12,9 +12,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*.mts</mask>
       <mask>*.mots</mask>
       <mask>*.modts</mask>
@@ -39,9 +36,12 @@
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
       <mask>*.t</mask>
+      <mask>*.pm</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.pm</mask>
+      <mask>*.ps</mask>
+      <mask>*.psg</mask>
+      <mask>*.psgi</mask>
     </recentFileMasks>
   </component>
 </application>
