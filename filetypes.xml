@@ -16,6 +16,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
       <mapping pattern="convert" type="PLAIN_TEXT" />
+      <mapping pattern="parser" type="PLAIN_TEXT" />
       <mapping pattern="sedprdx1N" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
       <mapping pattern="control" type="PLAIN_TEXT" />
