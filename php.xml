@@ -213,7 +213,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" version="7.1.2">
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" version="7.1.4">
           <additional_php_ini>/etc/php/conf.d/apcu.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
