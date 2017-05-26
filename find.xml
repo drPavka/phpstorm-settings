@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pm" />
     <recentFileMasks>
-      <mask>*.mots</mask>
       <mask>*.modts</mask>
       <mask>*.moduts</mask>
       <mask>*.modults</mask>
@@ -27,15 +27,16 @@
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
-      <mask>*.pm</mask>
       <mask>*.psgi</mask>
       <mask>*.psg</mask>
       <mask>*.ps</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
