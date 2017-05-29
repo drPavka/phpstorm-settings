@@ -1,14 +1,21 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.3333334" />
   <metaInfo>
     <property name="created">2016-12-09T10:10:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-03-24T10:19:41</property>
+    <property name="modified">2017-05-29T16:05:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_SIZE" value="23" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="TT2_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
