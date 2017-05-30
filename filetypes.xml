@@ -26,6 +26,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="include" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" type="Smarty" />
+      <mapping ext="tmpl" type="Template Toolkit" />
     </extensionMap>
   </component>
 </application>
