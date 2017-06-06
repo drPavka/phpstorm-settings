@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.m*.ts</mask>
-      <mask>*.m.ts</mask>
       <mask>*..ts</mask>
       <mask>*.mo</mask>
       <mask>*.mod</mask>
@@ -27,13 +25,15 @@
       <mask>*.t</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.pm</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.js</mask>
+      <mask>*.jp</mask>
+      <mask>*.jpm</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
