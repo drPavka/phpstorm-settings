@@ -1,11 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*..ts</mask>
-      <mask>*.mo</mask>
       <mask>*.mod</mask>
       <mask>*.modu</mask>
       <mask>*.modul</mask>
@@ -30,10 +33,12 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.js</mask>
       <mask>*.jp</mask>
       <mask>*.jpm</mask>
       <mask>*.pm</mask>
+      <mask>*.оы</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
