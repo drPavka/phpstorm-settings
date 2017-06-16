@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.mod</mask>
@@ -27,17 +25,17 @@
       <mask>*.t</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.jp</mask>
       <mask>*.jpm</mask>
-      <mask>*.pm</mask>
       <mask>*.оы</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.p</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
