@@ -1,0 +1,9 @@
+<templateSet group="Buratino Template toolkit">
+  <template name="trans" value="[% translate('$VAR$') %]" description="Buratino template toolkit translate tag" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Template Toolkit 2" value="true" />
+    </context>
+  </template>
+</templateSet>
