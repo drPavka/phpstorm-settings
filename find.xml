@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.module</mask>
       <mask>*.module*</mask>
@@ -24,7 +25,6 @@
       <mask>*.ps</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
@@ -34,12 +34,13 @@
       <mask>*.оы</mask>
       <mask>*.j</mask>
       <mask>*.pm</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
