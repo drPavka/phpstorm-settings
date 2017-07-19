@@ -1,9 +1,8 @@
 <templateSet group="Perl Buratino API doc block">
-  <template name="pod" value="=pod&#10;@apiVersion $version$&#10;@api {$method$} / $Title$&#10;@apiName $name$&#10;@apiGroup $group$&#10;&#10;@apiParam {string} cmd '$cmd$'&#10;$END$&#10;=cut&#10;" description="Buratino APi description block" toReformat="true" toShortenFQNames="true">
+  <template name="pod" value="=pod&#10;@apiVersion $version$&#10;@api {$method$} / $Title$&#10;@apiName $cmd$&#10;@apiGroup $group$&#10;&#10;@apiParam {string} cmd '$cmd$'&#10;$END$&#10;=cut&#10;" description="Buratino APi description block" toReformat="true" toShortenFQNames="true">
     <variable name="version" expression="" defaultValue="&quot;0.0.1&quot;" alwaysStopAt="true" />
     <variable name="method" expression="" defaultValue="&quot;post&quot;" alwaysStopAt="true" />
     <variable name="Title" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="group" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="cmd" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
