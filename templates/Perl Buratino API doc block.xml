@@ -1,0 +1,20 @@
+<templateSet group="Perl Buratino API doc block">
+  <template name="pod" value="=pod&#10;@apiVersion $VERSION$&#10;@api {$METHOD$} / $TITLE$&#10;@apiName $NAME$&#10;@apiGroup $GROUP$&#10;$END$&#10;=cut&#10;" description="Buratino APi description block" toReformat="true" toShortenFQNames="true">
+    <variable name="VERSION" expression="" defaultValue="0.0.1" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="post" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GROUP" expression="underscoresToSpaces(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PERL5" value="true" />
+    </context>
+  </template>
+  <template name="param" value="@apiParam {$TYPE$} $NAME$ $DESCRIPTION$" description="param description" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="POD" value="true" />
+    </context>
+  </template>
+</templateSet>
