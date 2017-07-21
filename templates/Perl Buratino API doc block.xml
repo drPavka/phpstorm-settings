@@ -33,8 +33,7 @@
       <option name="POD" value="true" />
     </context>
   </template>
-  <template name="ee" value="@apiErrorExample {$Type$}&#10;    $Error_name$&#10;    {$error_code$}&#10;$END$" description="Error example" toReformat="false" toShortenFQNames="true">
-    <variable name="Type" expression="" defaultValue="&quot;json&quot;" alwaysStopAt="true" />
+  <template name="ee" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {$error_code$}&#10;$END$" description="Error example" toReformat="false" toShortenFQNames="true">
     <variable name="Error_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="error_code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -42,6 +41,20 @@
     </context>
   </template>
   <template name="suo" value="@apiSuccess (200){string} result 'ok'&#10;$END$" description="Success ok result" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="POD" value="true" />
+    </context>
+  </template>
+  <template name="eec" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {error:&quot;$error_text$&quot;}&#10;$END$" description="Critical error" toReformat="false" toShortenFQNames="true">
+    <variable name="Error_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="error_text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="POD" value="true" />
+    </context>
+  </template>
+  <template name="eew" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {result:&quot;fail&quot;, reason:&quot;$error_text$&quot;}&#10;$END$" description="Non fatal error" toReformat="false" toShortenFQNames="true">
+    <variable name="Error_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="error_text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="POD" value="true" />
     </context>
