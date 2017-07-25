@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pm" />
     <recentFileMasks>
       <mask>*.module</mask>
       <mask>*.module*</mask>
@@ -25,10 +28,8 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.jp</mask>
-      <mask>*.jpm</mask>
       <mask>*.оы</mask>
       <mask>*.j</mask>
-      <mask>*.pm</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
@@ -36,6 +37,8 @@
       <mask>*.css</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.jpm</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
