@@ -2,22 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.module</mask>
-      <mask>*.module*</mask>
-      <mask>*.module.*</mask>
-      <mask>*.module.ts*</mask>
-      <mask>*.module.ts</mask>
-      <mask>*.m</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.psgi</mask>
-      <mask>*.psg</mask>
-      <mask>*.ps</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.s</mask>
@@ -36,6 +25,18 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.pm</mask>
+      <mask>te</mask>
+      <mask>tem</mask>
+      <mask>temp</mask>
+      <mask>templ</mask>
+      <mask>templa</mask>
+      <mask>templat</mask>
+      <mask>template</mask>
+      <mask>template/</mask>
+      <mask>template/*</mask>
+      <mask>template/*.</mask>
+      <mask>template/*.*</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
