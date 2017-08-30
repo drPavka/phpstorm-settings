@@ -10,13 +10,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jp</mask>
-      <mask>*.оы</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.jpm</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
@@ -34,12 +27,19 @@
       <mask>template/*.</mask>
       <mask>template/*.*</mask>
       <mask>*.*</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
+      <mask>*.ts</mask>
+      <mask>*.р</mask>
+      <mask>*.ре</mask>
+      <mask>*.реьд</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
+      <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmp</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
