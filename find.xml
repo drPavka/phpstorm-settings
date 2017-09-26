@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.p</mask>
       <mask>*.pm</mask>
       <mask>te</mask>
       <mask>tem</mask>
@@ -22,8 +22,6 @@
       <mask>template/*.</mask>
       <mask>template/*.*</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.ts</mask>
       <mask>*.р</mask>
       <mask>*.ре</mask>
       <mask>*.реьд</mask>
@@ -35,9 +33,12 @@
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.r</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
