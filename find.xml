@@ -3,17 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>templ</mask>
-      <mask>templa</mask>
-      <mask>templat</mask>
-      <mask>template</mask>
-      <mask>template/</mask>
-      <mask>template/*</mask>
       <mask>template/*.</mask>
       <mask>template/*.*</mask>
       <mask>*.*</mask>
@@ -38,6 +30,12 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.de</mask>
+      <mask>*.def</mask>
+      <mask>*.defa</mask>
+      <mask>*.defau</mask>
+      <mask>*.defaul</mask>
+      <mask>*.default</mask>
     </recentFileMasks>
   </component>
 </application>
