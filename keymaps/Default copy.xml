@@ -2,6 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
@@ -19,9 +22,13 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="GotoCustomRegion" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
