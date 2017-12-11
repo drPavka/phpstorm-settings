@@ -3,9 +3,10 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="hjs" type="Handlebars/Mustache" />
-      <mapping ext="bak" type="PHP" />
       <mapping ext="tpl" type="PHP" />
+      <mapping ext="bak" type="PHP" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
+      <mapping pattern="google-recaptcha-proxy" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
@@ -26,9 +27,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="perl_eid_upstream" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="include" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="include" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" type="Smarty" />
       <mapping ext="tmpl" type="Template Toolkit" />
     </extensionMap>
