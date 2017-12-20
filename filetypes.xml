@@ -7,7 +7,6 @@
       <mapping ext="bak" type="PHP" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
       <mapping pattern="google-recaptcha-proxy" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
       <mapping pattern="sedprdx1N" type="PLAIN_TEXT" />
