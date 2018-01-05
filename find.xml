@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.р</mask>
-      <mask>*.ре</mask>
       <mask>*.реьд</mask>
       <mask>*.htm</mask>
       <mask>*.tm</mask>
@@ -24,7 +23,6 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.de</mask>
@@ -34,8 +32,11 @@
       <mask>*.defaul</mask>
       <mask>*.default</mask>
       <mask>*.pl</mask>
-      <mask>*.p</mask>
       <mask>*.pm</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
