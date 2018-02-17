@@ -3,10 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.реьд</mask>
       <mask>*.htm</mask>
@@ -18,11 +17,9 @@
       <mask>*.r</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.de</mask>
@@ -38,6 +35,8 @@
       <mask>*.js</mask>
       <mask>*.css</mask>
       <mask>*.pm</mask>
+      <mask>*.scss</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
