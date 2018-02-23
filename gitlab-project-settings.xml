@@ -83,6 +83,12 @@
           <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/nodesource-repo.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/blockchain-explorer.git" />
+          <option name="name" value="blockchain-explorer" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/blockchain-explorer.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/bokobok.git" />
           <option name="name" value="bokobok" />
           <option name="namespace" value="Mobile Team" />
@@ -117,6 +123,12 @@
           <option name="name" value="money_storage" />
           <option name="namespace" value="Mobile Team" />
           <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/money_storage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/qloude.com.git" />
+          <option name="name" value="qloude.com" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/qloude.com.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/uainternet.git" />
