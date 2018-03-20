@@ -12,7 +12,6 @@
       <mask>*.htm</mask>
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.r</mask>
@@ -38,6 +37,7 @@
       <mask>*.html</mask>
       <mask>*.pm</mask>
       <mask>*.js</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
