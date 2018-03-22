@@ -33,6 +33,7 @@
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="id-api" type="PLAIN_TEXT" />
+      <mapping ext="id-main" type="PLAIN_TEXT" />
       <mapping ext="id-maintenance" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" type="Smarty" />
