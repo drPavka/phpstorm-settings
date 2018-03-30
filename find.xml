@@ -1,39 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*.реьд</mask>
-      <mask>*.htm</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmp</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.r</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.de</mask>
-      <mask>*.def</mask>
-      <mask>*.defa</mask>
-      <mask>*.defau</mask>
-      <mask>*.defaul</mask>
-      <mask>*.default</mask>
-      <mask>*.pl</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.css</mask>
-      <mask>*.scss</mask>
-      <mask>*.html</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.js</mask>
-      <mask>*.pm</mask>
-    </recentFileMasks>
   </component>
 </application>
