@@ -19,7 +19,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
