@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Show qloude log" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="tail " />
+      <option name="PARAMETERS" value="-f logs/log.txt" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
