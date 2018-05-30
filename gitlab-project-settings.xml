@@ -210,5 +210,14 @@
         </ProjectDto>
       </list>
     </option>
+    <option name="servers">
+      <list>
+        <ServerDto>
+          <option name="defaultRemoveBranch" value="true" />
+          <option name="host" value="https://gitlab.ytechteam.com/" />
+          <option name="token" value="iRT--66tfPahCNZ4M1Pn" />
+        </ServerDto>
+      </list>
+    </option>
   </component>
 </application>
