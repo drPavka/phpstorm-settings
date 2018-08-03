@@ -16,9 +16,9 @@
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.pm</mask>
+    <mask>*.js</mask>
   </component>
 </application>
