@@ -59,8 +59,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="su" value="@apiSuccess ($Group$){$TYPE$} $VAR$ $DESCR$" description="success result" toReformat="false" toShortenFQNames="true">
-    <variable name="Group" expression="" defaultValue="&quot;200&quot;" alwaysStopAt="true" />
+  <template name="su" value="@apiSuccess (200) {$TYPE$} $VAR$ $DESCR$" description="success result" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DESCR" expression="" defaultValue="" alwaysStopAt="true" />
