@@ -1,24 +1,11 @@
 <templateSet group="Perl Buratino API doc block">
-  <template name="pod" value="=pod&#10;@apiVersion $version$&#10;@api {$method$} / $Title$&#10;@apiName $cmd$&#10;@apiGroup $group$&#10;&#10;@apiParam {string} cmd '$cmd$'&#10;@apiUse ID&#10;@apiUse SID&#10;&#10;@apiUse E4xx&#10;@apiUse E5xx&#10;$END$&#10;=cut&#10;" description="Buratino APi description block" toReformat="true" toShortenFQNames="true">
-    <variable name="version" expression="" defaultValue="&quot;0.0.1&quot;" alwaysStopAt="true" />
+  <template name="ado" value="=pod&#10;@apiVersion 0.0.1&#10;@api {$method$} /v1/{$endpoint$} $Title$&#10;@apiName cmd_$endpoint$&#10;@apiGroup $group$&#10;&#10;@apiUse ID&#10;@apiUse SID&#10;&#10;@apiUse E4xx&#10;@apiUse E5xx&#10;&#10;=cut&#10;" description="Buratino APi description block" toReformat="true" toShortenFQNames="true">
     <variable name="method" expression="" defaultValue="&quot;post&quot;" alwaysStopAt="true" />
+    <variable name="endpoint" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Title" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="cmd" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="group" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="Bash" value="false" />
-      <option name="CSS" value="false" />
-      <option name="ECMAScript6" value="false" />
-      <option name="HTML" value="false" />
-      <option name="Handlebars" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
-      <option name="PERL5" value="false" />
-      <option name="POD" value="false" />
-      <option name="Template Toolkit 2" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
     </context>
   </template>
   <template name="pa" value="@apiParam {$Type$} $name$ $description$" description="param description" toReformat="false" toShortenFQNames="true">
