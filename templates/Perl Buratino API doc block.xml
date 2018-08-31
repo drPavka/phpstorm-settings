@@ -13,19 +13,7 @@
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="Bash" value="false" />
-      <option name="CSS" value="false" />
-      <option name="ECMAScript6" value="false" />
-      <option name="HTML" value="false" />
-      <option name="Handlebars" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
-      <option name="PERL5" value="false" />
-      <option name="POD" value="false" />
-      <option name="Template Toolkit 2" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
     </context>
   </template>
   <template name="use" value="@apiUse $BLOCK_NAME$" description="Use defined block" toReformat="false" toShortenFQNames="true">
@@ -128,9 +116,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="pe" value="@apiParamExample {json} Request:&#10;{&#10;    $pe_key$:&quot;$pe_value$&quot;&#10;}&#10;$END$" description="Param example" toReformat="false" toShortenFQNames="true">
-    <variable name="pe_key" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="pe_value" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="pe" value="@apiParamExample {Object} Request&#10;$END$" description="Param example" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />
@@ -147,23 +133,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="se" value="@apiSuccessExample {json} Response:&#10;{&#10;    $se_key$:&quot;$se_value$&quot;,&#10;}" description="Success example" toReformat="false" toShortenFQNames="true">
-    <variable name="se_key" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="se_value" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="se" value="@apiSuccessExample {Object} Response&#10;$END$" description="Success example" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="Bash" value="false" />
-      <option name="CSS" value="false" />
-      <option name="ECMAScript6" value="false" />
-      <option name="HTML" value="false" />
-      <option name="Handlebars" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
-      <option name="PERL5" value="false" />
-      <option name="POD" value="false" />
-      <option name="Template Toolkit 2" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
     </context>
   </template>
 </templateSet>
