@@ -12,11 +12,15 @@
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Diff.FocusOppositePane" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ExtractMethod" />
   <action id="FindInPath">
@@ -54,6 +58,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
