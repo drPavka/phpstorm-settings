@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.component.html" type="HTML" />
       <mapping ext="hjs" type="Handlebars/Mustache" />
+      <mapping pattern="init_dashboard_db" type="PLAIN_TEXT" />
       <mapping pattern="rest2mq" type="PLAIN_TEXT" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
       <mapping pattern="OauthUtils" type="PLAIN_TEXT" />
