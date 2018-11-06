@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="bashttpd" type="Bash" />
       <mapping pattern="*.component.html" type="HTML" />
       <mapping ext="hjs" type="Handlebars/Mustache" />
-      <mapping pattern="init_dashboard_db" type="PLAIN_TEXT" />
       <mapping pattern="rest2mq" type="PLAIN_TEXT" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
+      <mapping pattern="use_npm" type="PLAIN_TEXT" />
       <mapping pattern="OauthUtils" type="PLAIN_TEXT" />
       <mapping pattern="google-recaptcha-proxy" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
@@ -27,8 +28,8 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="control" type="PLAIN_TEXT" />
-      <mapping pattern="use_npm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="init_dashboard_db" type="PLAIN_TEXT" />
       <mapping pattern="perl_eid_upstream" type="PLAIN_TEXT" />
       <mapping ext="include" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
