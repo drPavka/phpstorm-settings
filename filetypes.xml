@@ -37,6 +37,7 @@
       <mapping ext="id-api" type="PLAIN_TEXT" />
       <mapping ext="id-main" type="PLAIN_TEXT" />
       <mapping ext="include" type="PLAIN_TEXT" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="id-maintenance" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
