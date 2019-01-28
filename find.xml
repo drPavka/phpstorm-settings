@@ -7,13 +7,13 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*</mask>
     <mask>*.xslt</mask>
     <mask>*.sql</mask>
@@ -24,5 +24,6 @@
     <mask>*.pm</mask>
     <mask>*.png</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
