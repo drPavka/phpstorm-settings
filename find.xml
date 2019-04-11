@@ -22,5 +22,6 @@
     <mask>*.tmpl</mask>
     <mask>*.pl</mask>
     <mask>*.sql</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
