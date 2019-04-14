@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tmpl" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -22,7 +24,7 @@
     <mask>*.sql</mask>
     <mask>*.csv</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.tmpl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
