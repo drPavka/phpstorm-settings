@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.service.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -25,5 +26,6 @@
     <mask>*.tmpl</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.service.*</mask>
   </component>
 </application>
