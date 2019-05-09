@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pm" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -19,7 +20,6 @@
     <mask>*.css</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
-    <mask>*.pm</mask>
     <mask>*.png</mask>
     <mask>*.xslt</mask>
     <mask>*.php</mask>
@@ -32,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.service.*</mask>
     <mask>*.ts</mask>
+    <mask>*.pm</mask>
   </component>
 </application>
