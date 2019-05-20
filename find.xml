@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -19,12 +20,12 @@
     <mask>*.scss</mask>
     <mask>*.pl</mask>
     <mask>*.sql</mask>
-    <mask>*.csv</mask>
     <mask>*.tmpl</mask>
     <mask>*.js</mask>
     <mask>*.service.*</mask>
     <mask>*.ts</mask>
     <mask>*.pm</mask>
     <mask>*.html</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
