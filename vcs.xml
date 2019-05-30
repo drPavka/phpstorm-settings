@@ -110,6 +110,10 @@
           <option name="url" value="git@github.com:drPavka/pm2-syslogger.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ytechteam.com:pavka/test-webhook-pkgbuild.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ytechteam" />
