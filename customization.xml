@@ -1,11 +1,16 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="&lt;anonymous-group-5&gt;" is_group="true" action_type="-1" position="5">
+    <group value="LocalHistory.PutLabel" is_action="true" action_type="-1" position="8">
       <path value="root" />
       <path value="VCS Operations Popup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="4">
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="VCS Operations Popup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="&lt;anonymous-group-5&gt;" is_group="true" action_type="-1" position="5">
       <path value="root" />
       <path value="VCS Operations Popup" />
       <option name="myInitialPosition" value="-1" />
@@ -46,6 +51,11 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="VCS Operations Popup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.CreateNewBranch" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="VCS Operations Popup" />
       <option name="myInitialPosition" value="-1" />
