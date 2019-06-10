@@ -22,7 +22,6 @@
     <mask>*.scss</mask>
     <mask>*.pl</mask>
     <mask>*.sql</mask>
-    <mask>*.tmpl</mask>
     <mask>*.service.*</mask>
     <mask>*.pm</mask>
     <mask>*.csv</mask>
@@ -30,5 +29,6 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.tmpl</mask>
   </component>
 </application>
