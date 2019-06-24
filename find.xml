@@ -16,13 +16,13 @@
     <mask>*.pl</mask>
     <mask>*.sql</mask>
     <mask>*.service.*</mask>
-    <mask>*.pm</mask>
     <mask>*.csv</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.tmpl</mask>
+    <mask>*.js</mask>
+    <mask>*.pm</mask>
   </component>
 </application>
