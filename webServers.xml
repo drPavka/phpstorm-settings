@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8003d39-cca0-4d71-b2ea-8ee20d446b21" name="devel3" url="http://localhost">
+        <fileTransfer host="dev3" port="54376" rootFolder="/home/pavka" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="54376" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
