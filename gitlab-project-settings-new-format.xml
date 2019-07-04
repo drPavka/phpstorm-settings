@@ -3992,6 +3992,456 @@
           <option name="namespace" value="qloude-ext" />
           <option name="sshUrl" value="git@gitlab.ytechteam.com:qloude-ext/qloude-middleware.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/antiques/tradeunion.network.git" />
+          <option name="name" value="tradeunion.network" />
+          <option name="namespace" value="Antiques" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:antiques/tradeunion.network.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/api-doc.git" />
+          <option name="name" value="api-doc" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/api-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/bfgminer.git" />
+          <option name="name" value="bfgminer" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/bfgminer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/buratino.git" />
+          <option name="name" value="buratino" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/buratino.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/buratino-merc-translate.git" />
+          <option name="name" value="buratino-merc-translate" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/buratino-merc-translate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/buratino-utils.git" />
+          <option name="name" value="buratino-utils" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/buratino-utils.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/buratino-cmd-ui.git" />
+          <option name="name" value="cmd-ui" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/buratino-cmd-ui.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ec-token.git" />
+          <option name="name" value="ec-token" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ec-token.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ecurrency.git" />
+          <option name="name" value="ecurrency" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ecurrency.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/face-lakshmi.git" />
+          <option name="name" value="face-lakshmi" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/face-lakshmi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/mercury.git" />
+          <option name="name" value="mercury" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/mercury.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/meta.git" />
+          <option name="name" value="meta" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/meta.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/modules.git" />
+          <option name="name" value="modules" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/modules.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id.git" />
+          <option name="name" value="ng-e.id" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id-api.git" />
+          <option name="name" value="ng-e.id-api" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id-api.cn.git" />
+          <option name="name" value="ng-e.id-api.cn" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id-api.cn.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id-api.in.git" />
+          <option name="name" value="ng-e.id-api.in" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id-api.in.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id-api.trd.git" />
+          <option name="name" value="ng-e.id-api.trd" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id-api.trd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id-deps.git" />
+          <option name="name" value="ng-e.id-deps" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id-deps.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/build-script.git" />
+          <option name="name" value="ng-e.id-pkgbuild" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/build-script.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/new-webhook-vision.git" />
+          <option name="name" value="ng-e.id-webhook" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/new-webhook-vision.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id.cn.git" />
+          <option name="name" value="ng-e.id.cn" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id.cn.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id.in.git" />
+          <option name="name" value="ng-e.id.in" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id.in.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/ng-e.id.trd.git" />
+          <option name="name" value="ng-e.id.trd" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/ng-e.id.trd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Buratino/nodesource-repo.git" />
+          <option name="name" value="nodesource-repo" />
+          <option name="namespace" value="Buratino" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Buratino/nodesource-repo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Cloud/deploy.git" />
+          <option name="name" value="deploy" />
+          <option name="namespace" value="Cloud" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Cloud/deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Cloud/middleware.git" />
+          <option name="name" value="osim" />
+          <option name="namespace" value="Cloud" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Cloud/middleware.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Cloud/qloude.git" />
+          <option name="name" value="qloude" />
+          <option name="namespace" value="Cloud" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Cloud/qloude.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Cloud/qloude.mw.js.git" />
+          <option name="name" value="qloude.mw.js" />
+          <option name="namespace" value="Cloud" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Cloud/qloude.mw.js.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/Cloud/vpnaas.git" />
+          <option name="name" value="vpnaas" />
+          <option name="namespace" value="Cloud" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:Cloud/vpnaas.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/doka/MW.git" />
+          <option name="name" value="MW" />
+          <option name="namespace" value="doka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:doka/MW.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/bitbox.git" />
+          <option name="name" value="bitbox" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/bitbox.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/bitsofta.git" />
+          <option name="name" value="bitsofta" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/bitsofta.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/bitsofta-cgi-bin.git" />
+          <option name="name" value="bitsofta-cgi-bin" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/bitsofta-cgi-bin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/bitsofta-server.git" />
+          <option name="name" value="bitsofta-server" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/bitsofta-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/blockchain-explorer.git" />
+          <option name="name" value="blockchain-explorer" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/blockchain-explorer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/bokobok.git" />
+          <option name="name" value="bokobok" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/bokobok.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/buratino-sdk.git" />
+          <option name="name" value="buratino-sdk" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/buratino-sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/crt.money.git" />
+          <option name="name" value="crt.money" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/crt.money.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/crt.systems.git" />
+          <option name="name" value="crt.systems" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/crt.systems.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/CryptTex.git" />
+          <option name="name" value="CryptTex" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/CryptTex.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/design.git" />
+          <option name="name" value="design" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/design.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/ect.git" />
+          <option name="name" value="ect" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/ect.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/ect.money.git" />
+          <option name="name" value="ect.money" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/ect.money.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/ethereumflow.git" />
+          <option name="name" value="EthereumFlow" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/ethereumflow.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/goldencoin.git" />
+          <option name="name" value="GoldenCoin" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/goldencoin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/ho.ua.git" />
+          <option name="name" value="ho.ua" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/ho.ua.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/hosting.lt.git" />
+          <option name="name" value="hosting.lt" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/hosting.lt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/itconsulting.center.git" />
+          <option name="name" value="itconsulting.center" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/itconsulting.center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/lucky-ticket.git" />
+          <option name="name" value="lucky-ticket" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/lucky-ticket.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/mercury.git" />
+          <option name="name" value="mercury" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/mercury.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/mercury-lang.git" />
+          <option name="name" value="mercury-lang" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/mercury-lang.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/mercury2.git" />
+          <option name="name" value="mercury2" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/mercury2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/money_storage.git" />
+          <option name="name" value="money_storage" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/money_storage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/qloude.com.git" />
+          <option name="name" value="qloude.com" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/qloude.com.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/referal-system.git" />
+          <option name="name" value="referal-system" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/referal-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/san-marino.git" />
+          <option name="name" value="san-marino" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/san-marino.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/test-rls.git" />
+          <option name="name" value="test-rls" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/test-rls.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/translationmanager.git" />
+          <option name="name" value="TranslationManager" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/translationmanager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/uainternet.git" />
+          <option name="name" value="uainternet" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/uainternet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/mobile-team/zet.finance.git" />
+          <option name="name" value="zet.finance" />
+          <option name="namespace" value="Mobile Team" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:mobile-team/zet.finance.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/buratino-scheduler.git" />
+          <option name="name" value="buratino-scheduler" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/buratino-scheduler.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/csv-trans.git" />
+          <option name="name" value="csv-trans" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/csv-trans.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/e-id-stats.git" />
+          <option name="name" value="e-id-stats" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/e-id-stats.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/gitlab.webhook.php.git" />
+          <option name="name" value="gitlab.webhook.php" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/gitlab.webhook.php.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/mercuri-api-doc.git" />
+          <option name="name" value="mercuri-api-doc" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/mercuri-api-doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/ng.e-id.doc.git" />
+          <option name="name" value="ng.e-id.doc" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/ng.e-id.doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/oauth2-test.git" />
+          <option name="name" value="oauth2-test" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/oauth2-test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pavka/test-webhook-pkgbuild.git" />
+          <option name="name" value="Test webhook and package building" />
+          <option name="namespace" value="pavka" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pavka/test-webhook-pkgbuild.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pseudo/qld-ansible.git" />
+          <option name="name" value="qld-ansible" />
+          <option name="namespace" value="pseudo" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pseudo/qld-ansible.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pseudo/rsyslog-config.git" />
+          <option name="name" value="rsyslog-config" />
+          <option name="namespace" value="pseudo" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pseudo/rsyslog-config.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/pseudo/systemd.git" />
+          <option name="name" value="systemd" />
+          <option name="namespace" value="pseudo" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:pseudo/systemd.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/qloude-ext/qloude-common.git" />
+          <option name="name" value="qloude-common" />
+          <option name="namespace" value="qloude-ext" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:qloude-ext/qloude-common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/qloude-ext/qloude-middleware.git" />
+          <option name="name" value="qloude-middleware" />
+          <option name="namespace" value="qloude-ext" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:qloude-ext/qloude-middleware.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.ytechteam.com/ruvim/new-lakshmi-html.git" />
+          <option name="name" value="New lakshmi html" />
+          <option name="namespace" value="ruvim" />
+          <option name="sshUrl" value="git@gitlab.ytechteam.com:ruvim/new-lakshmi-html.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
