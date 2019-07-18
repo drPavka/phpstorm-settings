@@ -21,10 +21,10 @@
     <mask>*.csv</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.tmpl</mask>
     <mask>*.pm</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
