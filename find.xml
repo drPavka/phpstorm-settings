@@ -3,10 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -24,9 +26,9 @@
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
-    <mask>*.tmpl</mask>
     <mask>*.pm</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.tmpl</mask>
   </component>
 </application>
