@@ -27,5 +27,6 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.default</mask>
   </component>
 </application>
