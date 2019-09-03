@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xslt" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -20,7 +19,6 @@
     <mask>*.css</mask>
     <mask>*.pm</mask>
     <mask>*.sh</mask>
-    <mask>*.xslt</mask>
     <mask>*.php</mask>
     <mask>*.tmpl</mask>
     <mask>*.scss</mask>
@@ -28,5 +26,6 @@
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.default</mask>
+    <mask>*.xslt</mask>
   </component>
 </application>
