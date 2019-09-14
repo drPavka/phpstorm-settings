@@ -1,0 +1,7 @@
+<templateSet group="Apidoc">
+  <template name="api" value="/**&#10; * @api {$METHOD} /$ENDPOINT $DESCRIPTION&#10; * @apiVersion 0.0.20&#10; * @apiParam&#10; * @apiName $NAME&#10; * @apiGroup ${GROUP}&#10; *&#10; */" description="ApiDoc Block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

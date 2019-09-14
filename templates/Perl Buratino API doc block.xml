@@ -1,5 +1,5 @@
 <templateSet group="Perl Buratino API doc block">
-  <template name="ado" value="=pod&#10;@apiVersion 0.0.1&#10;@api {$method$} /v1/$endpoint$ $Title$&#10;@apiName cmd_$endpoint$&#10;@apiGroup $group$&#10;&#10;@apiUse ID&#10;@apiUse SID&#10;&#10;@apiUse E4xx&#10;@apiUse E5xx&#10;&#10;=cut&#10;" description="Buratino APi description block" toReformat="true" toShortenFQNames="true">
+  <template name="ado" value="=pod&#10;@apiVersion 0.0.1&#10;@api {$method$} /v1/$endpoint$ $Title$&#10;@apiName cmd_$endpoint$&#10;@apiGroup $group$&#10;&#10;@apiUse ID&#10;@apiUse SID&#10;&#10;@apiUse E4xx&#10;@apiUse E5xx&#10;&#10;=cut&#10;" description="Buratino APi description block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="method" expression="" defaultValue="&quot;post&quot;" alwaysStopAt="true" />
     <variable name="endpoint" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Title" expression="" defaultValue="" alwaysStopAt="true" />
@@ -8,7 +8,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="pa" value="@apiParam {$Type$} $name$ $description$" description="param description" toReformat="false" toShortenFQNames="true">
+  <template name="pa" value="@apiParam {$Type$} $name$ $description$" description="param description" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="Type" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
@@ -16,7 +16,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="use" value="@apiUse $BLOCK_NAME$" description="Use defined block" toReformat="false" toShortenFQNames="true">
+  <template name="use" value="@apiUse $BLOCK_NAME$" description="Use defined block" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="BLOCK_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Bash" value="false" />
@@ -34,7 +34,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="su" value="@apiSuccess (200) {$TYPE$} $VAR$ $DESCR$" description="success result" toReformat="false" toShortenFQNames="true">
+  <template name="su" value="@apiSuccess (200) {$TYPE$} $VAR$ $DESCR$" description="success result" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="TYPE" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DESCR" expression="" defaultValue="" alwaysStopAt="true" />
@@ -42,7 +42,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ee" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {$error_code$}&#10;$END$" description="Error example" toReformat="false" toShortenFQNames="true">
+  <template name="ee" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {$error_code$}&#10;$END$" description="Error example" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="Error_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="error_code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -61,7 +61,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="suo" value="@apiSuccess (200){string} result 'ok'&#10;$END$" description="Success ok result" toReformat="false" toShortenFQNames="true">
+  <template name="suo" value="@apiSuccess (200){string} result 'ok'&#10;$END$" description="Success ok result" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />
@@ -78,7 +78,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="eec" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {error:&quot;$error_text$&quot;}&#10;$END$" description="Critical error" toReformat="false" toShortenFQNames="true">
+  <template name="eec" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {error:&quot;$error_text$&quot;}&#10;$END$" description="Critical error" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="Error_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="error_text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -97,7 +97,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="eew" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {result:&quot;fail&quot;, reason:&quot;$error_text$&quot;}&#10;$END$" description="Non fatal error" toReformat="false" toShortenFQNames="true">
+  <template name="eew" value="@apiErrorExample {json}&#10;    $Error_name$&#10;    {result:&quot;fail&quot;, reason:&quot;$error_text$&quot;}&#10;$END$" description="Non fatal error" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="Error_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="error_text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -116,7 +116,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="pe" value="@apiParamExample {Object} Request&#10;$END$" description="Param example" toReformat="false" toShortenFQNames="true">
+  <template name="pe" value="@apiParamExample {Object} Request&#10;$END$" description="Param example" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />
@@ -133,7 +133,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="se" value="@apiSuccessExample {Object} Response&#10;$END$" description="Success example" toReformat="false" toShortenFQNames="true">
+  <template name="se" value="@apiSuccessExample {Object} Response&#10;$END$" description="Success example" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="OTHER" value="true" />
     </context>

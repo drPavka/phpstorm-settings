@@ -1,0 +1,64 @@
+<templateSet group="Perl5: POD">
+  <template name="=head1" value="=head1 $TEXT$&#10;&#10;$END$&#10;" description="=head1" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;heading&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=head2" value="=head2 $TEXT$&#10;&#10;$END$&#10;" description="=head2" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;heading&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=attr" value="=attr $TEXT$&#10;&#10;$END$&#10;" description="=head2" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=func" value="=func $TEXT$&#10;&#10;$END$&#10;" description="=head2" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=method" value="=method $TEXT$&#10;&#10;$END$&#10;" description="=head2" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=head3" value="=head3 $TEXT$&#10;&#10;$END$&#10;" description="=head3" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;heading&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=head4" value="=head4 $TEXT$&#10;&#10;$END$&#10;" description="=head4" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;heading&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=over" value="=over $LEVEL$&#10;&#10;=item $TITLE$&#10;&#10;$SELECTION$$END$&#10;&#10;=back&#10;" description="=over ... =back" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="LEVEL" expression="&quot;1&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="complete()" defaultValue="&quot;title&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=begin" value="=begin $FORMAT$ &#10;&#10;$SELECTION$$END$&#10;&#10;=end $FORMAT$&#10;" description="=begin ... =end" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="FORMAT" expression="complete()" defaultValue="&quot;html&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=for" value="=for $FORMAT$ $END$ &#10;" description="=for" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="FORMAT" expression="complete()" defaultValue="&quot;html&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=encoding" value="=encoding $ENCODING$ &#10;&#10;$END$" description="=encoding" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="ENCODING" expression="complete()" defaultValue="&quot;utf8&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=pod" value="=pod&#10;&#10;$END$&#10;" description="=pod" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="=back" value="=back&#10;&#10;$END$&#10;" description="=back" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="=end" value="=end $FORMAT$&#10;&#10;$END$&#10;" description="=end" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="FORMAT" expression="complete()" defaultValue="&quot;html&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="=cut" value="=cut&#10;&#10;$END$&#10;" description="=cut" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="=item" value="=item $TEXT$ &#10;&#10;$END$&#10;" description="=item" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TEXT" expression="complete()" defaultValue="&quot;title&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
