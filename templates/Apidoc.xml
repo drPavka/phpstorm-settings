@@ -1,7 +1,36 @@
 <templateSet group="Apidoc">
-  <template name="api" value="/**&#10; * @api {$METHOD} /$ENDPOINT $DESCRIPTION&#10; * @apiVersion 0.0.20&#10; * @apiParam&#10; * @apiName $NAME&#10; * @apiGroup ${GROUP}&#10; *&#10; */" description="ApiDoc Block" toReformat="true" toShortenFQNames="true">
+  <template name="api" value="/**&#10; * @api {$METHOD$} /$ENDPOINT$ $DESCRIPTION$&#10; * @apiVersion $VERSION$&#10; * @apiName $NAME$&#10; * @apiGroup $GROUP$&#10; */" description="ApiDoc Block" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="get" alwaysStopAt="true" />
+    <variable name="ENDPOINT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VERSION" expression="" defaultValue="0.0.20" alwaysStopAt="false" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GROUP" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="api-pa" value="@apiParam {$TYPE$} $NAME$ $DESC$" description="Api param" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="api-su" value="@apiSuccess {$TYPE$} $NAME$ $DESCRIPTION$" description="ApiDoc success block" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
 </templateSet>
