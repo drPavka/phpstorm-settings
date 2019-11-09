@@ -6,10 +6,9 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.component.html" type="HTML" />
       <mapping ext="mwb" type="Native" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="init_dashboard_db" type="PLAIN_TEXT" />
       <mapping pattern="rest2mq" type="PLAIN_TEXT" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
-      <mapping pattern="use_npm" type="PLAIN_TEXT" />
       <mapping pattern="OauthUtils" type="PLAIN_TEXT" />
       <mapping pattern="google-recaptcha-proxy" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
@@ -28,12 +27,13 @@
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="pass" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="control" type="PLAIN_TEXT" />
+      <mapping pattern="use_npm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="tunnel@dev2" type="PLAIN_TEXT" />
-      <mapping pattern="init_dashboard_db" type="PLAIN_TEXT" />
       <mapping pattern="perl_eid_upstream" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
@@ -48,7 +48,6 @@
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="tmpl" type="Template Toolkit" />
       <mapping ext="xlf" type="XML" />
-      <mapping ext="conf" type="nginx file type" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="hjs" type="Handlebars/Mustache" />
       <mapping pattern="bashttpd" type="Bash" />
