@@ -27,9 +27,9 @@
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.tmpl</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.service.ts</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
