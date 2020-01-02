@@ -1,14 +1,7 @@
-<code_scheme name="Mine">
+<code_scheme name="Mine" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <PHPCodeStyleSettings>
@@ -19,13 +12,17 @@
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACES_AROUND_VAR_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
