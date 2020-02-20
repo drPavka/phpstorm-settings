@@ -38,6 +38,7 @@
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="id-maintenance" type="PLAIN_TEXT" />
       <mapping ext="id-api" type="PLAIN_TEXT" />
       <mapping ext="id-main" type="PLAIN_TEXT" />
