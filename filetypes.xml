@@ -6,7 +6,6 @@
       <mapping ext="mwb" type="Native" />
       <mapping pattern="rest2mq" type="PLAIN_TEXT" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="google-recaptcha-proxy" type="PLAIN_TEXT" />
       <mapping pattern="OauthUtils" type="PLAIN_TEXT" />
       <mapping pattern="pass" type="PLAIN_TEXT" />
