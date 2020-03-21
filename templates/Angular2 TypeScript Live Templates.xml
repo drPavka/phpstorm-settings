@@ -1,5 +1,5 @@
 <templateSet group="Angular2 TypeScript Live Templates">
-  <template name="rx-tap-console" value="tap(console.log.bind(console)),$END$" toReformat="false" toShortenFQNames="true">
+  <template name="rx-tap-console" value="tap(console.log.bind(console)),$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
