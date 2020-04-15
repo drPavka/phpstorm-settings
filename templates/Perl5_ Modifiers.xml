@@ -1,26 +1,20 @@
 <templateSet group="Perl5: Modifiers">
   <template name="if" value="if ($CONDITION$);&#10;$END$" description="postfix if" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="&quot;$expr&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="unl" value="unless ($CONDITION$);&#10;$END$" description="postfix unless" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="&quot;$expr&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="wh" value="while ($CONDITION$);&#10;$END$" description="postfix while" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="&quot;$expr&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="unt" value="until ($CONDITION$);&#10;$END$" description="postfix until" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="&quot;$expr&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="fo" value="for ($LIST$);&#10;$END$" description="postfix for" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="LIST" expression="" defaultValue="&quot;@list&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="fe" value="foreach ($LIST$);&#10;$END$&#10;" description="postfix foreach" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="LIST" expression="" defaultValue="&quot;@list&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
