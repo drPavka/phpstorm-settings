@@ -6,7 +6,6 @@
       <mapping ext="mwb" type="Native" />
       <mapping pattern="rest2mq" type="PLAIN_TEXT" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
-      <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="google-recaptcha-proxy" type="PLAIN_TEXT" />
       <mapping pattern="OauthUtils" type="PLAIN_TEXT" />
       <mapping pattern="pass" type="PLAIN_TEXT" />
@@ -15,30 +14,30 @@
       <mapping pattern="sedprdx1N" type="PLAIN_TEXT" />
       <mapping pattern="ng_api_upstream" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
-      <mapping pattern="postrm" type="PLAIN_TEXT" />
       <mapping pattern="convert" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern="gzip_params" type="PLAIN_TEXT" />
+      <mapping pattern="postrm" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="openshift" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="use_npm" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="control" type="PLAIN_TEXT" />
-      <mapping pattern="use_npm" type="PLAIN_TEXT" />
+      <mapping pattern="perl_eid_upstream" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="tunnel@dev2" type="PLAIN_TEXT" />
       <mapping pattern="init_dashboard_db" type="PLAIN_TEXT" />
-      <mapping pattern="perl_eid_upstream" type="PLAIN_TEXT" />
+      <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="id-maintenance" type="PLAIN_TEXT" />
       <mapping ext="id-api" type="PLAIN_TEXT" />
       <mapping ext="id-main" type="PLAIN_TEXT" />
