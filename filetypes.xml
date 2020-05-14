@@ -4,50 +4,51 @@
     <extensionMap>
       <mapping pattern="*.component.html" type="HTML" />
       <mapping ext="mwb" type="Native" />
-      <mapping pattern="rest2mq" type="PLAIN_TEXT" />
-      <mapping pattern="parser" type="PLAIN_TEXT" />
-      <mapping pattern="google-recaptcha-proxy" type="PLAIN_TEXT" />
-      <mapping pattern="OauthUtils" type="PLAIN_TEXT" />
-      <mapping pattern="pass" type="PLAIN_TEXT" />
-      <mapping pattern="Aptfile" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
-      <mapping pattern="sedprdx1N" type="PLAIN_TEXT" />
-      <mapping pattern="ng_api_upstream" type="PLAIN_TEXT" />
-      <mapping pattern="rules" type="PLAIN_TEXT" />
-      <mapping pattern="postrm" type="PLAIN_TEXT" />
-      <mapping pattern="convert" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
-      <mapping pattern="gzip_params" type="PLAIN_TEXT" />
-      <mapping pattern="perl_eid_upstream" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="openshift" type="PLAIN_TEXT" />
-      <mapping pattern="use_npm" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="changelog" type="PLAIN_TEXT" />
-      <mapping pattern="control" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="tunnel@dev2" type="PLAIN_TEXT" />
-      <mapping pattern="init_dashboard_db" type="PLAIN_TEXT" />
-      <mapping pattern="postinst" type="PLAIN_TEXT" />
-      <mapping pattern="browserslist" type="PLAIN_TEXT" />
-      <mapping ext="timer" type="PLAIN_TEXT" />
-      <mapping ext="ext" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="id-maintenance" type="PLAIN_TEXT" />
-      <mapping ext="id-api" type="PLAIN_TEXT" />
+      <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping ext="id-main" type="PLAIN_TEXT" />
-      <mapping ext="include" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="timer" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="id-api" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping ext="include" type="PLAIN_TEXT" />
+      <mapping ext="id-maintenance" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="tmpl" type="Template Toolkit" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="conf" type="nginx" />
+      <removed_mapping pattern="use_npm" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="openshift" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="init_dashboard_db" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="rules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="OauthUtils" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="convert" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="postinst" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ng_api_upstream" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="google-recaptcha-proxy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="pass" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="browserslist" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tunnel@dev2" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="hosts" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Aptfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="changelog" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="control" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="postrm" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="rest2mq" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="parser" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="gzip_params" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="files" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sedprdx1N" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="perl_eid_upstream" approved="true" type="PLAIN_TEXT" />
       <mapping ext="hjs" type="Handlebars/Mustache" />
       <mapping pattern="bashttpd" type="Bash" />
     </extensionMap>
