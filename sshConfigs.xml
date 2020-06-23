@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="dev3" id="75d0611e-dc8e-427f-90ff-f7f9f0afcede" port="54376" customName="devel3" nameFormat="CUSTOM" username="pavka" />
-      <sshConfig authType="OPEN_SSH" host="dev3" id="f1c926c3-0422-450f-a26f-d4343ff35d32" port="54376" customName="devel3" nameFormat="CUSTOM" username="pavka" />
+      <sshConfig authType="OPEN_SSH" host="dev3" id="1c1efba5-fafd-45ca-a41e-8929f9cc79e9" port="54376" customName="devel3" nameFormat="CUSTOM" username="pavka" />
     </configs>
   </component>
 </application>
