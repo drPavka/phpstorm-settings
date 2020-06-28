@@ -4,5 +4,10 @@
       <display-name>SQL select/delete/insert/update/create</display-name>
       <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*[\"'`]?"))]]></place>
     </injection>
+    <injection language="XHTML" injector-id="xml">
+      <display-name>html in xsl</display-name>
+      <place><![CDATA[xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/XSL/Transform"))]]></place>
+      <apply-to-subtags />
+    </injection>
   </component>
 </application>
