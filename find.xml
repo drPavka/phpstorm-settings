@@ -27,7 +27,7 @@
     <mask>*.pm</mask>
     <mask>*.js</mask>
     <mask>*.tmpl</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
