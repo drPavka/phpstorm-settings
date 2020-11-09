@@ -11,6 +11,7 @@
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="js " type="PLAIN_TEXT" />
       <mapping ext="id-maintenance" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="include" type="PLAIN_TEXT" />
