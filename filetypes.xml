@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="*.component.html" type="HTML" />
       <mapping ext="mwb" type="Native" />
@@ -24,34 +24,34 @@
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="conf" type="nginx" />
-      <removed_mapping pattern="use_npm" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="openshift" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="init_dashboard_db" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="rules" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="OauthUtils" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="convert" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="postinst" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="ng_api_upstream" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="google-recaptcha-proxy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="test" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="pass" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="browserslist" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="tunnel@dev2" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="hosts" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Aptfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="OauthUtils" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="browserslist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="changelog" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="control" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="convert" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="files" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="google-recaptcha-proxy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="gzip_params" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="hosts" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="init_dashboard_db" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ng_api_upstream" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="openshift" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="parser" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="pass" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="perl_eid_upstream" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="postinst" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="postrm" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="rest2mq" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="parser" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="gzip_params" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="files" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="rules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sedprdx1N" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="perl_eid_upstream" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tunnel@dev2" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="use_npm" approved="true" type="PLAIN_TEXT" />
       <mapping ext="hjs" type="Handlebars/Mustache" />
       <mapping ext="tmpl" type="Template Toolkit" />
       <mapping pattern="bashttpd" type="Bash" />
