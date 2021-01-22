@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -21,12 +22,12 @@
     <mask>*.sql</mask>
     <mask>*.service.ts</mask>
     <mask>*.xslt</mask>
-    <mask>*.ts</mask>
     <mask>*.pm</mask>
     <mask>*.js</mask>
     <mask>*.tmpl</mask>
     <mask>*.html</mask>
     <mask>*.module*</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
