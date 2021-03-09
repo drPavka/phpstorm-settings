@@ -32,7 +32,7 @@
     <mask>*.tmpl</mask>
     <mask>*.module*</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
