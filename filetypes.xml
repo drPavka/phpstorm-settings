@@ -3,7 +3,6 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="LegalEntity" type="AUTO_DETECTED" />
-      <mapping ext="pug" type="AUTO_DETECTED" />
       <mapping pattern="*.component.html" type="HTML" />
       <mapping ext="mwb" type="Native" />
       <mapping pattern="1" type="PLAIN_TEXT" />
@@ -25,6 +24,7 @@
       <mapping ext="id-main" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pug" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Aptfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="OauthUtils" approved="true" type="PLAIN_TEXT" />
