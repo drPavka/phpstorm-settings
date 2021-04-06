@@ -166,6 +166,10 @@
           <option name="url" value="ssh://datapond/opt/shift-mgr-webtest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-jira.ai.prod:7990" />
+          <option name="userName" value="Pavlo.Dubenko" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects.js" />
