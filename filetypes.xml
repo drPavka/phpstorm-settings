@@ -17,6 +17,7 @@
       <mapping ext="id-maintenance" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="include" type="PLAIN_TEXT" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
