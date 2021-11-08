@@ -1,26 +1,25 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*</mask>
-    <mask>*.xml</mask>
     <mask>*.png</mask>
     <mask>*.pl</mask>
     <mask>*.service.*</mask>
     <mask>*.csv</mask>
-    <mask>*.css</mask>
     <mask>*.sh</mask>
-    <mask>*.php</mask>
     <mask>*.default</mask>
     <mask>*.sql</mask>
     <mask>*.service.ts</mask>
@@ -31,6 +30,16 @@
     <mask>*.module*</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.css</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
   </component>
 </application>
