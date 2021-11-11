@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -26,7 +27,6 @@
     <mask>*.js</mask>
     <mask>*.tmpl</mask>
     <mask>*.module*</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -39,5 +39,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
