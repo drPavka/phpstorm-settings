@@ -26,7 +26,6 @@
     <mask>*.module*</mask>
     <mask>*.ts</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.php4</mask>
     <mask>*.phtml</mask>
@@ -37,5 +36,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
