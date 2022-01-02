@@ -12,6 +12,7 @@
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="js " type="PLAIN_TEXT" />
       <mapping ext="id-maintenance" type="PLAIN_TEXT" />
