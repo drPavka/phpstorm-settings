@@ -4,4 +4,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="destr" value="private destroy$$$: Subject&lt;void&gt; = new Subject&lt;void&gt;();" description="Destroy Subject" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

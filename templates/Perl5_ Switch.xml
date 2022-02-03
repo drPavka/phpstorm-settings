@@ -1,9 +1,0 @@
-<templateSet group="Perl5: Switch">
-  <template name="sw" value="switch ($VAL$)&#10;{&#10;    $SELECTION$$END$&#10;}" description="switch block" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="VAL" expression="" defaultValue="&quot;$expr&quot;" alwaysStopAt="true" />
-  </template>
-  <template name="ca" value="case $COND$ { $SELECTION$$END$ }&#10;" description="case block" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="COND" expression="&quot;$expr&quot;" defaultValue="" alwaysStopAt="true" />
-  </template>
-  <template name="el" value="else { $SELECTION$$END$ }&#10;" description="else block" toReformat="true" toShortenFQNames="true" deactivated="true" />
-</templateSet>
