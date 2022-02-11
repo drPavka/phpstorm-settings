@@ -6,7 +6,6 @@
       <mapping pattern="*.component.html" type="HTML" />
       <mapping ext="hjs" type="Handlebars/Mustache" />
       <mapping ext="mwb" type="Native" />
-      <mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern=".development.env" type="PLAIN_TEXT" />
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -26,8 +25,8 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="id-api" type="PLAIN_TEXT" />
       <mapping ext="id-main" type="PLAIN_TEXT" />
-      <removed_mapping ext="conf" type="SmartyConfig" />
       <mapping ext="xlf" type="XML" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="pug" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Aptfile" approved="true" type="PLAIN_TEXT" />
